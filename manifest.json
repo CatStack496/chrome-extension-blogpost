@@ -3,12 +3,12 @@
 
   "name": "Modify CSS and HTML",
   "version": "0.1.0",
-  "description": "Lateral blog post demo extension",
+  "description": "Alig Website Updater",
 
   "content_scripts": [{
     "css": ["styles.css"],
     "js": ["content.js"],
-    "matches": ["https://blog.lateral.io/*"]
+    "matches": ["https://aliggj.educatorpages.com/*"]
   }]
 
 }

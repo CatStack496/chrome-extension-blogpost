@@ -1,5 +1,25 @@
-body {
-  background: url('https://media.giphy.com/media/3o7WTDJQVuYwhhuLhC/giphy.gif') !important;
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family: Verdana;
+}
+
+html,body {
+    border: 0px solid #000;
+    width: 90%;
+    margin: auto auto;
+    height:100%;
+    text-align: center;
+   }
+
+p {
+  height:100%;
+    border: 0px solid #000;
+    width: 70%;
+    margin: auto auto;
+    height:100%;
+    text-align: center;
 }
 
 #masthead,
